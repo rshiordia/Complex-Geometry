@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Geometría Compleja
+description: Documentación de los modelos de Cubiertas Ligeras realizados en la clase de Geometría Compleja. Dentro de la especialización en Diseño de Cubiertas Ligeras de la Facultad de Arquitectura, Universidad Nacional Autónoma de México. Junio de 2023
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://rshiordia.github.io/Complex-Geometry
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
