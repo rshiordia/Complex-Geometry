@@ -1,6 +1,6 @@
 ---
-title: Home
-layout: home
+title: Geometría Compleja
+layout: default
 nav_order: 1
 ---
 # Geometría Compleja
