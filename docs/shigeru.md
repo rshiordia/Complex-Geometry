@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Shigeru Ban
-nav_order: 1
+nav_order: 2
 ---
 
 # Atsushi Imai Memorial Gym
