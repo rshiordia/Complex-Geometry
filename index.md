@@ -2,7 +2,7 @@
 title: Home
 layout: home
 ---
-# Geometria Compleja
+# Geometría Compleja
 Este repositorio documenta diversas cubiertas ligeras y su modelación en Rhino Grasshopper. 
 
 ## Proyectos Mostrados
