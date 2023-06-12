@@ -10,7 +10,7 @@ nav_order: 4
 
 [Lámina](../laminas/L4%20Fuller_LR.pdf)
 
-[Modelo](../modelos/GC_M4/GEODESICO.gh)
+[Modelo](../modelos/GC_M4_GEODESICO.gh)
 
 [Modelo Interactivo](https://www.shapediver.com/app/models/trazo-geodesico)
 
