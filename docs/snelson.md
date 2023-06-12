@@ -8,6 +8,8 @@ nav_order: 5
 
 ![Tensegrity](../img/snelson1.jpg)
 
+![](../img/tensegrity.mp4)
+
 [Lámina](../laminas/L5%20Snelson.pdf)
 
 [Modelo](../modelos/GC_M5_SISTEMA%20TENSEGRIDAD%20ELEMENTAL.gh)
