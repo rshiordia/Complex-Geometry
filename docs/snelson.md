@@ -8,9 +8,7 @@ nav_order: 5
 
 ![Tensegrity](../img/snelson1.jpg)
 
-<video width="619" height="387" controls>
-  <source src="../img/tensegrity.mp4" type="video/mp4">
-</video>
+![video](../img/tensegrity.mp4)
 
 [Lámina](../laminas/L5%20Snelson.pdf)
 
