@@ -8,7 +8,7 @@ nav_order: 5
 
 ![Tensegrity](../img/snelson1.jpg)
 
-![video](../img/tensegrity.mp4)
+[Video](../img/tensegrity.mp4)
 
 [Lámina](../laminas/L5%20Snelson.pdf)
 
