@@ -10,7 +10,7 @@ nav_order: 4
 
 [Lámina](../laminas/L3%20Grimshaw_LR.pdf)
 
-[Modelo](../modelos/GC_M2_WATERLOO2.gh)
+[Modelo](../modelos/GC_M3_WATERLOO2.gh)
 
 [Modelo Interactivo](https://www.shapediver.com/app/models/waterloo-station)
 
