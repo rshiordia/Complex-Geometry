@@ -13,4 +13,3 @@ Las diferentes cubiertas que se modelaron son:
 - Waterloo Station, Nicholas Grimshaw
 - Trazo de un geodésico triangular, Buckminster Fuller
 - Sistema elemental de Tensegridad, Rafael Motro, Kenneth Snelson
-- Puente Peatonal TRUMPF, Jörg & Mike Schlaich
